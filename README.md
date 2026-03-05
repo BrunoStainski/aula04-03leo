@@ -14,7 +14,7 @@ Projeto aula programação Front-End, na Unicesumar, campus Londrina.
 O professor [Leonardo Rocha](https://github.com/leonardossrocha) introduziu os conceitos de Framework, apresentando o Bootstrap.
 O mesmo realizou o passo-a-passo de configuração do ambiente de desenvolvimento. 
 
-#### ![Imagem tela logar](<img.png>)
+! [tela](login.png)
 
 ### Andamento do projeto
 ![Logo github](https://img.shields.io/badge/github-repo-blue?logo=github)
